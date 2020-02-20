@@ -110,17 +110,17 @@ control, que estaba sobre una pista...
 
 25
 00:03:59,533 --> 00:04:01,367
-- ...que lo cambiaría todo.
+- ...que iba a cambiarlo todo. Sí.
 - Eso es.
 
 26
 00:04:01,450 --> 00:04:03,658
-Eso me dijo
+Eso fue lo que me dijo
 la última vez que hablé con él.
 
 27
 00:04:03,742 --> 00:04:07,158
-Pero entonces yo no sabía lo que ahora sé
+Pero entonces yo no sabía lo que ahora sea
 y él todavía ignora.
 
 28
@@ -130,7 +130,7 @@ y él todavía ignora.
 29
 00:04:08,200 --> 00:04:10,700
 Es posible que lo citen
-a declarar esta noche.
+a declarar esta misma noche.
 
 30
 00:04:10,783 --> 00:04:11,617
@@ -138,8 +138,8 @@ a declarar esta noche.
 
 31
 00:04:11,700 --> 00:04:15,742
-Una de mis fuentes asegura que la fiscalía
-tiene un testigo de última hora
+Una de mis fuentes en el juzgado asegura que 
+la fiscalía tiene un testigo de última hora
 
 32
 00:04:15,825 --> 00:04:18,117
@@ -148,7 +148,7 @@ un giro definitivo a su caso.
 
 33
 00:04:18,200 --> 00:04:21,742
-No sabemos quién es, pero lo están
+Aún no sabemos quién es, pero lo están
 trasladando a dependencias judiciales
 
 34
@@ -197,8 +197,8 @@ me tienen vigilado las 24 horas del día.
 
 44
 00:04:51,200 --> 00:04:54,533
-¿No cree que, si tuviera algo más
-que añadir, no lo habría hecho ya?
+¿Usted no cree que, si tuviera algo más
+que añadir, no lo habría hecho ya? Sra. Goodman.
 
 45
 00:04:54,617 --> 00:04:57,825
@@ -212,7 +212,7 @@ para volver a empezar.
 
 47
 00:05:00,658 --> 00:05:04,325
-Le aconsejo que deje de lamentarse
+Así que le aconsejo que deje de lamentarse
 y nos pongamos a trabajar.
 
 48
@@ -248,12 +248,12 @@ Nos pidió 100 000 euros.
 
 55
 00:05:46,367 --> 00:05:49,617
-Vale más pagar por el silencio de alguien
-que afrontar un divorcio.
+Y vale más pagar por el silencio de alguien
+que afrontar un divorcio millonario.
 
 56
 00:05:49,700 --> 00:05:52,283
-Yo nunca quise divorciarme de Sonia.
+No, yo nunca quise divorciarme de Sonia.
 La quiero.
 
 57
@@ -277,12 +277,12 @@ si fue en ese hotel o en otro?
 
 61
 00:06:01,492 --> 00:06:03,242
-¿Habían estado alguna vez por allí?
+¿Usted y su amante han estado alguna vez por allí?
 
 62
 00:06:03,325 --> 00:06:05,742
 El problema es
-que me han inculpado de asesinato.
+que me han inculpado de asesinato. Sra. Goodman
 
 63
 00:06:07,075 --> 00:06:08,742
@@ -451,7 +451,7 @@ Según el informe de la policía
 102
 00:09:44,492 --> 00:09:48,367
 los testigos oyeron gritos, pero no vieron
-salir a nadie de la habitación.
+salir a nadie por la puerta de la habitación.
 
 103
 00:09:48,450 --> 00:09:50,658
@@ -1032,7 +1032,7 @@ sin querer. Pero ya estamos con el parte.
 
 232
 00:20:36,408 --> 00:20:38,367
-¿Queréis que llame a una ambulancia?
+¿Queréis que llame a una ambulancia o algo?
 
 233
 00:20:38,450 --> 00:20:41,283
@@ -1045,8 +1045,8 @@ estamos perfectamente. Gracias.
 
 235
 00:21:00,867 --> 00:21:03,325
-Deben de ser los del seguro.
-Ahora vuelvo.
+Deben ser los del seguro.
+Ahora vuelvo eh.
 
 236
 00:21:08,408 --> 00:21:09,283
@@ -1058,8 +1058,8 @@ Ahora vuelvo.
 
 238
 00:21:12,658 --> 00:21:15,325
-Se nos ha cruzado un ciervo
-y tengo el susto en el cuerpo.
+Es que se nos ha cruzado un ciervo
+y todavía tengo el susto en el cuerpo.
 
 239
 00:21:20,617 --> 00:21:21,867
@@ -1101,7 +1101,7 @@ Gracias.
 
 248
 00:21:57,033 --> 00:21:58,908
-- ¿Y si ha visto algo?
+- ¿Y si ha visto algo? Dime.
 - No ha visto nada.
 
 249
@@ -1115,7 +1115,7 @@ Ha podido ver al chaval.
 
 251
 00:22:02,700 --> 00:22:03,950
-Hay un testigo.
+Hay un testigo. ¿Entiendes?
 
 252
 00:22:04,033 --> 00:22:06,492
@@ -1128,7 +1128,7 @@ Por favor.
 
 254
 00:22:23,075 --> 00:22:27,200
-Lo mejor es que yo me quede aquí
+Lo mejor es que yo me quedo aquí
 para pedir ayuda, ¿vale?
 
 255
@@ -1145,7 +1145,8 @@ No lo sé.
 
 258
 00:22:34,325 --> 00:22:37,492
-Pero hay que deshacerse de todo, ¿vale?
+No lo sé,
+pero hay que deshacerse de todo, ¿vale?
 
 259
 00:22:39,200 --> 00:22:41,825
@@ -1162,7 +1163,7 @@ Se acabó.
 
 262
 00:23:10,575 --> 00:23:14,533
-<i>Solo podía pensar en por qué</i>
+<i>Y lo único que podía pensar en por qué</i>
 <i>estaba allí en lugar de con mi familia.</i>
 
 263
@@ -1277,12 +1278,13 @@ Ha tenido suerte, podría haberse matado.
 
 288
 00:28:26,950 --> 00:28:30,075
-No arranca. El motor no arranca.
+No arranca. 
+El motor no sé... no arranca.
 
 289
 00:28:30,158 --> 00:28:33,617
-He llamado a los de la asistencia,
-pero están saturados.
+He llamado a los de la asistencia, pero están saturados.
+No sabe cuándo van a tardar y yo...
 
 290
 00:28:33,700 --> 00:28:35,200
@@ -1300,7 +1302,7 @@ Menuda casualidad.
 293
 00:28:39,450 --> 00:28:41,742
 Trabajé como ingeniero
-en su sede española.
+en su sede española hace años.
 
 294
 00:28:41,825 --> 00:28:43,658
@@ -1318,7 +1320,7 @@ Encantada.
 297
 00:28:55,492 --> 00:28:59,283
 Es que el coche es de mi hermana
-y me lo ha prestado. No sé muy bien...
+y me lo ha prestado. Yo no sé muy bien dónde...
 
 298
 00:29:00,658 --> 00:29:03,367
@@ -2085,7 +2087,7 @@ desembarcando.
 467
 00:42:14,908 --> 00:42:17,075
 - ¿Cómo que la fiscalía?
--<i>¿Cuándo vuelves?</i>
+-<i>Escúchame, ¿cuándo vuelves?</i>
 
 468
 00:42:17,158 --> 00:42:19,075
@@ -2280,7 +2282,7 @@ La perdí.
 510
 00:45:05,658 --> 00:45:09,242
 La suelo guardar en la cartera, pero debí
-de dejarla en la chaqueta y se extravió.
+de dejarla en la chaqueta con el viaje y se extravió.
 
 511
 00:45:09,325 --> 00:45:12,408
@@ -2352,21 +2354,22 @@ a la policía que estuviste en París? Ya.
 526
 00:46:11,700 --> 00:46:14,700
 ¿Puedes hacerles creer que estuve?
-¿Comprarme una coartada?
+¿Puedes comprarme una coartada?
 
 527
 00:46:14,783 --> 00:46:17,450
 - ¿Tengo alternativa?
-- La he dejado. Fue un error.
+- Felíx, la he dejado. Fue un error.
 
 528
 00:46:18,533 --> 00:46:21,033
-No puedo permitir
+Mira, no puedo permitir
 que esta puñetera coincidencia
 
 529
 00:46:21,117 --> 00:46:23,283
 estropee mi vida con Álex y Sonia.
+No puedo.
 
 530
 00:46:24,492 --> 00:46:28,450
@@ -2448,7 +2451,7 @@ y se protege, protege lo que tiene.
 
 547
 00:47:28,492 --> 00:47:32,117
-¿Qué has hecho para que la policía
+¿Se puede saber qué has hecho para que la policía
 crea que Daniel Garrido se ha fugado?
 
 548
@@ -2467,7 +2470,7 @@ Me traicionaron los nervios, lo sé.
 
 551
 00:47:42,533 --> 00:47:45,450
-Pero no me crea tan estúpido
+Pero vamos. No me crea tan estúpido
 como para contactar con Laura
 
 552
@@ -2588,7 +2591,7 @@ Bruno estuvo unos días trabajando en casa.
 
 577
 00:49:24,825 --> 00:49:28,700
-<i>Aproveché una mañana para acabar</i>
+<i>Aproveché una de esas mañana para acabar</i>
 <i>con todo esto de la única manera posible.</i>
 
 578
@@ -2606,12 +2609,13 @@ Bruno estuvo unos días trabajando en casa.
 
 581
 00:50:38,325 --> 00:50:40,533
-El jurado pensará
+Quiere que el jurado piense
 que les toma por imbéciles.
 
 582
 00:50:40,617 --> 00:50:42,283
-Laura fue empleada de ese banco.
+Laura conoció su marido cuando 
+era empleada de ese banco.
 
 583
 00:50:42,367 --> 00:50:46,867
@@ -2621,16 +2625,16 @@ Usted debería saberlo mejor que nadie.
 584
 00:50:46,950 --> 00:50:49,950
 ¿Su amante se reciclaba
-mientras se dedicaba a la fotografía?
+mientras se dedicaba de lleno a la fotografía?
 
 585
 00:50:50,033 --> 00:50:51,283
-Quizá su marido la ayudó.
+Puede que su marido la ayudara.
 
 586
 00:50:51,367 --> 00:50:55,492
 Quizá ella le contó la verdad, pero
-no me lo dijo para mantenerle al margen.
+no me lo dijo porque quiso mantenerle al margen.
 
 587
 00:50:56,242 --> 00:50:57,908
@@ -2638,7 +2642,8 @@ Usted no conoció a Laura.
 
 588
 00:50:58,867 --> 00:51:00,450
-Tenía mucho poder de seducción.
+Cuando quería algo, 
+tenía mucho poder de seducción.
 
 589
 00:51:00,533 --> 00:51:02,867
@@ -2667,7 +2672,7 @@ Que no me mires con esa cara.
 
 595
 00:51:19,408 --> 00:51:22,450
-No llamaste a la policía
+Tú no llamaste a la policía
 porque sabías que hacíamos lo correcto.
 
 596
@@ -2867,7 +2872,7 @@ Elvira y yo estábamos allí.
 
 640
 00:55:00,325 --> 00:55:03,408
-Es imposible que el teléfono
+Así que es imposible que el teléfono
 estuviera en casa,
 
 641
@@ -2890,7 +2895,7 @@ Alguien más iba con ella.
 
 645
 00:55:13,783 --> 00:55:15,117
-¿Cómo está tan seguro?
+¿Y cómo puede estar tan seguro?
 
 646
 00:55:15,200 --> 00:55:20,033
@@ -2907,7 +2912,7 @@ Me mintió.
 
 649
 00:55:24,450 --> 00:55:26,075
-El coche es de mi hermana
+Es que el coche es de mi hermana
 
 650
 00:55:26,158 --> 00:55:28,242
@@ -3074,7 +3079,7 @@ con esa mujer que no se llama Raquel.
 
 687
 00:58:03,783 --> 00:58:06,825
-Tuvieron un accidente
+Y tuvieron un accidente
 en el lugar donde yo la encontré
 
 688
@@ -3113,7 +3118,7 @@ y que descanse en paz.
 
 696
 00:58:46,158 --> 00:58:47,658
-- Acompáñenos.
+- Señor, tiene que acompañarnos.
 - No me toque.
 
 697
@@ -3296,11 +3301,11 @@ y sabe más que sus padres.
 736
 01:01:30,658 --> 01:01:34,158
 ¿Quiere hacerle creer al jurado
-que ese conductor les citó en el hotel?
+que ese conductor fue quien les citó en el hotel?
 
 737
 01:01:34,242 --> 01:01:35,533
-¿Con qué propósito?
+¿Con qué propósito? Sr. Doria.
 
 738
 01:01:35,617 --> 01:01:39,325
@@ -3309,7 +3314,7 @@ que éramos culpables.
 
 739
 01:01:39,658 --> 01:01:42,325
-Pudo descubrir quién era yo
+Y porque no pudo descubrir quién era yo
 y que Laura no era mi mujer.
 
 740
@@ -3443,7 +3448,7 @@ El ruido que oí antes de hundir el coche.
 
 770
 01:03:36,367 --> 01:03:38,367
-<i>¿Y sin no fue solo un ciervo?</i>
+<i>Digame, ¿Y si no fue solo un ciervo?</i>
 
 771
 01:03:39,117 --> 01:03:43,033
@@ -3452,13 +3457,13 @@ que habíamos chocado entre nosotros?
 
 772
 01:03:43,117 --> 01:03:45,950
-- Me alegro que no haya sido nada.
+- Pues me alegro que no haya sido nada.
 - Gracias.
 
 773
 01:03:48,200 --> 01:03:50,033
 <i>Puede que viera algo,</i>
-<i>sospechara</i>
+<i>sospechara de nuestro actitud</i>
 
 774
 01:03:50,117 --> 01:03:52,492
@@ -3470,17 +3475,17 @@ Claro, entiendo su problema.
 
 776
 01:03:55,283 --> 01:03:58,783
-Intenta alejar su historia de lo que
+Está intentando alejar su historia de lo que
 supone la muerte de Daniel Garrido.
 
 777
 01:03:59,367 --> 01:04:01,742
 - ¿Perdón?
-- El conductor se mueve por dinero.
+- El conductor es alquien que se mueve por dinero.
 
 778
 01:04:01,825 --> 01:04:04,575
-Le parece que si se refugia
+Y a usted le parece que si se refugia
 en ese conductor chantajista
 
 779
@@ -3494,7 +3499,7 @@ Y dígame, ¿tiene una idea mejor?
 
 781
 01:04:10,867 --> 01:04:12,242
-Le haré tres preguntas.
+Voy a hacerle tres preguntas.
 
 782
 01:04:12,325 --> 01:04:14,242
@@ -3548,13 +3553,13 @@ No me salga con eso otra vez.
 
 793
 01:04:47,950 --> 01:04:50,658
-- Resuelva usted algún interrogante.
+- Sorpréndame con algo, resuelva usted algún interrogante.
 - Muy bien.
 
 794
 01:04:50,742 --> 01:04:53,700
 Le diré lo que podría haber pasado
-a partir de lo que me ha contado.
+a partir de lo que usted me ha contado.
 
 795
 01:04:53,783 --> 01:04:54,825
@@ -3765,7 +3770,7 @@ al otro es una forma de conseguirlo.
 
 842
 01:09:40,533 --> 01:09:44,492
-<i>Solamente Félix pudo sacarle de la cárcel</i>
+<i>Y solamente Félix pudo sacarle de la cárcel</i>
 <i>a costa de una fianza millonaria.</i>
 
 843
@@ -3792,8 +3797,8 @@ al otro es una forma de conseguirlo.
 
 848
 01:09:57,200 --> 01:10:01,075
-<i>¿La has contratado para que me</i>
-<i>diga lo que tengo que decir en un juicio?</i>
+<i>¿Has contratado a alguien para que me</i>
+<i>diga lo que tengo que decir en un juicio, Felíx?</i>
 
 849
 01:10:01,158 --> 01:10:03,783
@@ -3803,7 +3808,7 @@ al otro es una forma de conseguirlo.
 850
 01:10:03,867 --> 01:10:07,992
 Hace dos semanas anunció que se jubilaba,
-pero ha aceptado que seas su último caso.
+pero ha aceptado que tú seas su último caso.
 
 851
 01:10:08,075 --> 01:10:10,533
@@ -3830,11 +3835,11 @@ Ya, pero nada de eso nos sirve
 856
 01:10:26,450 --> 01:10:29,492
 sin resolver cómo logró
-desvanecerse sin dejar rastro.
+desvanecerse en la habitación sin dejar rastro.
 
 857
 01:10:29,575 --> 01:10:32,200
-<i>Le aseguro que cuando desperté</i>
+<i>Y le aseguro que cuando desperté</i>
 <i>no había ninguno.</i>
 
 858
@@ -3856,8 +3861,8 @@ desvanecerse sin dejar rastro.
 
 862
 01:10:42,283 --> 01:10:47,533
-Consiste en cambiar la perspectiva desde
-la cual se analizan los acontecimientos.
+Consiste en la posibilidad de cambiar la perspectiva 
+desde la cual se analizan los acontecimientos.
 
 863
 01:10:47,617 --> 01:10:52,117
@@ -3891,7 +3896,7 @@ ni a las paredes ni a la viga.
 
 869
 01:11:10,283 --> 01:11:13,075
-Sin embargo,
+Y sin embargo,
 el hombre se ahorcó a sí mismo.
 
 870
@@ -3950,12 +3955,12 @@ sino fuera?
 
 882
 01:12:07,075 --> 01:12:09,200
-<i>Trabaja</i>
+<i>Ahora trabaja</i>
 <i>cerca de Bierge, en el valle,</i>
 
 883
 01:12:09,283 --> 01:12:10,408
-a 20 minutos de casa.
+a unos 20 minutos de casa.
 
 884
 01:12:10,492 --> 01:12:13,408
@@ -3996,6 +4001,7 @@ Os espero en el hotel Bellavista.
 
 892
 01:12:38,367 --> 01:12:40,325
+<i>No tiene sentido.</i>
 <i>No podía saber lo del pantano.</i>
 
 893
@@ -4022,7 +4028,7 @@ y esperar a que usted picara.
 
 898
 01:12:57,200 --> 01:12:58,825
-¿Fue lo que ocurrió?
+¿Fue eso lo que ocurrió?
 
 899
 01:12:58,908 --> 01:12:59,992
@@ -4034,7 +4040,7 @@ y esperar a que usted picara.
 
 901
 01:14:32,158 --> 01:14:34,867
-Sus llaves.
+Aquí están sus llaves.
 Les deseo una buena estancia.
 
 902
@@ -4053,7 +4059,7 @@ Habitación 715.
 
 905
 01:14:40,325 --> 01:14:41,700
-<i>Así Tomás Garrido</i>
+<i>Y así fue Tomás Garrido</i>
 
 906
 01:14:41,783 --> 01:14:45,200
@@ -4081,7 +4087,8 @@ un mensaje desde tu móvil.
 
 911
 01:14:57,075 --> 01:14:59,658
-<i>...dejarle fuera de combate...</i>
+<i>Tumbarle a usted para</i>
+<i>dejarle fuera de combate...</i>
 
 912
 01:15:01,242 --> 01:15:02,575
@@ -4241,12 +4248,12 @@ Esto nos obliga a pensar con rapidez.
 
 948
 01:18:28,408 --> 01:18:31,783
-- También certifica que estoy jodido.
+- Sí. También certifica que estoy jodido.
 - No del todo si me obedece.
 
 949
 01:18:32,492 --> 01:18:36,408
-Supongamos que no estuvo en la cabaña
+Supongamos que usted no estuvo en la cabaña
 con su amante el día del accidente.
 
 950
@@ -5009,11 +5016,12 @@ y su mujer no han hablado?
 
 1117
 01:30:27,575 --> 01:30:29,242
-Si Laura les contó la verdad,
+Si Laura les citó parales la verdad,
 
 1118
 01:30:29,325 --> 01:30:31,158
 ¿por qué no se lo dijeron a la policía?
+Dígame.
 
 1119
 01:30:31,242 --> 01:30:35,492
@@ -5237,7 +5245,7 @@ crea que no es un asesino?
 
 1167
 01:34:02,575 --> 01:34:06,825
-- Pues admita que mató a Laura.
+- Pues entonces admita de una vez que mató a Laura.
 - La maté.
 
 1168
@@ -5358,7 +5366,7 @@ Tenías razón, es muy buena.
 
 1195
 01:36:34,408 --> 01:36:38,700
-¿Qué era toda esa historia de la fiscalía?
+Oye, ¿Qué era toda esa historia de la fiscalía?
 Con el ruido del avión no pude oírte.
 
 1196
@@ -5414,7 +5422,7 @@ Está trucada. Es un montaje.
 
 1208
 01:37:31,950 --> 01:37:34,117
-<i>Supone cosas que no puede saber.</i>
+<i>Usted supone cosas que no puede saber.</i>
 
 1209
 01:37:34,200 --> 01:37:36,283
@@ -5447,7 +5455,7 @@ para enterrarle y que descanse en paz.
 
 1215
 01:37:50,367 --> 01:37:52,867
-<i>Nos conocimos</i>
+<i>Fue así nos conocimos</i>
 <i>en un grupo de teatro.</i>
 
 1216
