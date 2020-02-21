@@ -484,7 +484,7 @@ Se abre con esto.
 109
 00:10:05,950 --> 00:10:09,242
 <i>Especularon sobre cualquier</i>
-<i>manera de salir sin ser visto,</i>
+<i>manera de salir de ahí sin ser visto,</i>
 
 110
 00:10:09,325 --> 00:10:12,283
@@ -515,8 +515,8 @@ Se abre con esto.
 
 116
 00:10:27,117 --> 00:10:31,033
-Según el personal, nadie pudo hacerse
-con ninguna llave que no fuera la suya.
+Y según el personal del hotel, nadie pudo hacerse
+con ninguna llave que no fuera la que tenía usted.
 
 117
 00:10:31,117 --> 00:10:34,408
@@ -541,7 +541,7 @@ estaba preparada para inculparme
 121
 00:10:47,158 --> 00:10:48,908
 <i>- </i><i>No lo sé.</i>
-<i>- </i><i>¿Porqué?</i>
+<i>- </i><i>¿Por qué?</i>
 
 122
 00:10:48,992 --> 00:10:50,575
@@ -549,12 +549,12 @@ Le estoy diciendo que no lo sé.
 
 123
 00:10:50,658 --> 00:10:53,450
-Solo sé que mi mujer me ha dejado
+Lo único que sé es que mi mujer me ha dejado
 y se ha llevado a mi hija.
 
 124
 00:10:53,533 --> 00:10:55,325
-<i>Alguien se está saliendo con la suya.</i>
+<i>Y que alguien se está saliendo con la suya.</i>
 
 125
 00:10:55,408 --> 00:10:57,325
@@ -568,12 +568,12 @@ y se ha llevado a mi hija.
 127
 00:11:00,658 --> 00:11:02,825
 <i>- </i><i>¿Qué?</i>
-<i>- Le da la razón a la policía.</i>
+<i>- Le está dando la razón a la policía.</i>
 
 128
 00:11:02,908 --> 00:11:05,450
-<i>Afirman que no existe nadie</i>
-<i>en su entorno con motivos</i>
+<i>Ellos afirman que no existe nadie</i>
+<i>en su entorno con motivos</i> 
 
 129
 00:11:05,533 --> 00:11:07,450
@@ -586,18 +586,18 @@ suena a invención, Sr. Doria.
 
 131
 00:11:11,408 --> 00:11:13,700
-- No es mi trabajo encontrar al culpable.
+- Ya pero no es mi trabajo encontrar al culpable.
 - No.
 
 132
 00:11:13,783 --> 00:11:15,992
-Es el de Félix, el de usted
-y el de la policía.
+Es el de Félix y usted
+y por supuesto de la policía.  
 
 133
 00:11:16,075 --> 00:11:18,283
 A ellos corresponde
-atrapar a los culpables.
+atrapar a los culpables. No a mí.  
 
 134
 00:11:18,367 --> 00:11:20,075
@@ -709,7 +709,7 @@ no me mienta más.
 158
 00:13:31,992 --> 00:13:34,325
 - No, no creo que cerremos.
--<i>Ha llamado mi padre.</i>
+-<i>Ha llamado a mi padre.</i>
 
 159
 00:13:34,408 --> 00:13:37,283
@@ -797,7 +797,7 @@ Me paso el día mintiendo.
 
 178
 00:15:35,783 --> 00:15:38,033
-A mí me parece que,
+A mí me parece que 
 cuando estás conmigo, no.
 
 179
@@ -898,13 +898,13 @@ Mierda.
 201
 00:18:17,617 --> 00:18:19,867
 No ha sido culpa nuestra.
-Ha sido el puto ciervo.
+Adrián, ha sido el puto ciervo. 
 
 202
 00:18:19,950 --> 00:18:21,700
-- Le he invadido.
-- No llevaba cinturón.
-
+- Laura，le he invadido.
+- Que no llevaba cinturón, entiendes.
+ 
 203
 00:18:21,783 --> 00:18:22,700
 Estaba con el móvil.
@@ -916,8 +916,8 @@ habría reaccionado.
 
 205
 00:18:25,325 --> 00:18:28,575
-¿Qué me has dicho antes?
-Siempre hay que sacrificar algo, ¿no?
+¿Tú qué me has dicho antes?
+que siempre hay que sacrificar algo, ¿no?
 
 206
 00:18:28,658 --> 00:18:30,492
@@ -956,7 +956,7 @@ tu carrera.
 
 214
 00:18:49,492 --> 00:18:51,450
-No quieres perderlo todo, ¿verdad?
+Tú no quieres perderlo todo, ¿verdad?
 
 215
 00:18:53,825 --> 00:18:54,825
@@ -972,11 +972,11 @@ No arranca.
 
 218
 00:19:23,992 --> 00:19:25,533
-Vamos, por favor, arranca.
+Vamos, por favor, vamos, arranca.
 
 219
 00:19:25,617 --> 00:19:29,033
-¡Arranca, hostia! ¡Arranca! Vamos.
+Andrián, ¡Pues hostia arranca! Vamos.
 
 220
 00:19:30,658 --> 00:19:32,950
@@ -994,7 +994,7 @@ Bájate del coche.
 223
 00:19:51,575 --> 00:19:53,492
 - ¿Qué hacemos?
-- Haz lo que yo haga.
+- Deja a mí, haz lo que yo haga.
 
 224
 00:19:53,575 --> 00:19:54,575
@@ -1426,7 +1426,7 @@ A mí me encanta leer.
 
 321
 00:30:45,575 --> 00:30:47,158
-Sobre todo teatro.
+Sobre todo， el t eatro.
 
 322
 00:30:47,242 --> 00:30:51,492
@@ -1487,26 +1487,26 @@ Es que voy a retrasarme.
 
 335
 00:31:29,200 --> 00:31:32,700
-Me llevo a casa informes y operaciones
+Mírame, estaba llevando para casa informes y operaciones
 que aquí es imposible terminar.
 
 336
 00:31:32,783 --> 00:31:36,075
 Demasiadas interrupciones.
-¿Qué ha pasado? ¿Por qué te retrasas?
+¿Pero qué ha pasado? ¿Por qué te retrasas?
 
-337
+337 
 00:31:36,158 --> 00:31:39,658
 Nada, un contratiempo.
 Algo del motor, no sé.
 
 338
 00:31:39,742 --> 00:31:42,242
-<i>Avísame cuando sepas cuándo despegáis.</i>
+<i>Tranquila, tú avísame cuando sepas cuándo despegáis.</i>
 
 339
 00:31:42,325 --> 00:31:43,867
-No vengas a buscarme.
+No hace falta que vengas a buscarme.
 
 340
 00:31:43,950 --> 00:31:47,325
@@ -1524,7 +1524,7 @@ hasta la hora de ir a recogerte.
 
 343
 00:31:51,950 --> 00:31:53,992
-No pasa nada, de verdad, estoy bien.
+Que no pasa nada, de verdad, estoy bien.
 
 344
 00:31:54,075 --> 00:31:55,575
@@ -1575,7 +1575,7 @@ Tienes sangre ahí en la mano.
 
 354
 00:32:27,950 --> 00:32:31,283
-- Si tienes heridas, se puede infectar.
+- Déjame a ver, si tienes heridas, se puede infectar.
 - No tengo herida.
 
 355
@@ -1600,11 +1600,11 @@ Me pongo manos a la obra.
 359
 00:32:41,950 --> 00:32:44,033
 ¿Cómo te vas a quedar aquí
-con el frío que hace?
+con el frío que hace? pasa mujer.
 
 360
 00:32:44,117 --> 00:32:45,367
-Así te limpias eso. Pasa.
+Así te limpias eso. Pasa. 
 
 361
 00:32:46,158 --> 00:32:47,075
@@ -1789,7 +1789,7 @@ que estaría con sus amigos.
 401
 00:36:21,075 --> 00:36:23,867
 Que no, Tomás, que no.
-Todo esto es muy raro.
+Que todo esto es muy raro.
 
 402
 00:36:24,242 --> 00:36:25,575
@@ -1881,7 +1881,7 @@ Está delante de un desguace.
 
 422
 00:39:19,492 --> 00:39:21,325
-<i>Después me despedí de ella</i>
+<i>Y después me despedí de ella</i> 
 
 423
 00:39:21,408 --> 00:39:24,408
@@ -4484,7 +4484,7 @@ pero no le salvaré de ser quien es.
 
 999
 01:22:36,200 --> 01:22:37,367
-Basura, Sr. Doria.
+Un basura, Sr. Doria.
 
 1000
 01:22:37,450 --> 01:22:39,908
@@ -4493,8 +4493,8 @@ porque me necesita.
 
 1001
 01:22:39,992 --> 01:22:43,033
-El chico ya estaba muerto sin estarlo.
-Decidí en un instante.
+Escúchame, el chico ya estaba muerto sin estarlo.
+Tuve que decidir en una fracción de segundo.
 
 1002
 01:22:45,200 --> 01:22:49,075
@@ -4561,7 +4561,7 @@ que lleva dentro.
 
 1016
 01:23:27,033 --> 01:23:28,700
-¿No está aquí para defenderme?
+¿Usted no está aquí para defenderme?
 
 1017
 01:23:31,325 --> 01:23:32,617
@@ -4616,7 +4616,7 @@ de no volver a verse, sino Laura?
 
 1028
 01:24:23,700 --> 01:24:26,658
-¿Qué has hecho para que crean
+¿Se puede saber qué has hecho para que crean
 que Daniel Garrido se ha fugado?
 
 1029
@@ -4635,12 +4635,12 @@ Vale.
 
 1032
 01:24:32,492 --> 01:24:35,908
-<i>...desvió pequeñas cantidade</i>
+<i>...desvió pequeñas cantidades</i>
 <i>de cuentas de sus clientes</i>
 
 1033
 01:24:35,992 --> 01:24:37,200
-<i>antes de desaparecer.</i>
+<i>poco antes de desaparecer.</i> 
 
 1034
 01:24:38,908 --> 01:24:42,367
@@ -4672,8 +4672,8 @@ Ponle un precio.
 1040
 01:24:54,950 --> 01:24:58,033
 <i>para cambiar el curso</i>
-<i>de los acontecimientos sin dejar huellas.</i>
-
+<i>de los acontecimientos sin dejar huellas que le señalen.</i>
+ 
 1041
 01:24:58,117 --> 01:24:59,117
 Yo me encargo.
@@ -4824,7 +4824,7 @@ Daniel.
 
 1074
 01:26:55,283 --> 01:26:59,075
-<i>Se citó con ellos en el hotel</i>
+<i>Así que se citó con ellos en el hotel</i>
 <i>donde trabajaba la madre del chico.</i>
 
 1075
@@ -4862,7 +4862,7 @@ Alguien sabe algo.
 1082
 01:27:25,742 --> 01:27:27,992
 <i>...que la había localizado</i>
-<i>y les chantajeaba.</i>
+<i>y le estaba chantajeando.</i>
 
 1083
 01:27:29,283 --> 01:27:32,992
@@ -4907,7 +4907,7 @@ Alguien sabe algo.
 
 1092
 01:28:03,700 --> 01:28:07,658
-<i>Se aseguro de que nadie le viera llegar</i>
+<i>Así que se aseguró de que nadie le viera llegar</i>
 <i>a la habitación donde ella le esperaba.</i>
 
 1093
@@ -4917,7 +4917,7 @@ Alguien sabe algo.
 
 1094
 01:28:19,867 --> 01:28:23,575
-<i>Cuando ella le contó lo que pretendía,</i>
+<i>Y cuando ella le contó lo que pretendía,</i>
 <i>usted perdió los nervios.</i>
 
 1095
