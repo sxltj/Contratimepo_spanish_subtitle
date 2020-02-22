@@ -129,7 +129,7 @@ y él todavía ignora.
 
 29
 00:04:08,200 --> 00:04:10,700
-Es posible que lo citen
+Que es muy posible que lo citen
 a declarar esta misma noche.
 
 30
@@ -162,7 +162,7 @@ He dicho la verdad.
 36
 00:04:25,783 --> 00:04:29,825
 En su declaración hay lagunas,
-Sr. Dorian, y necesito detalles.
+Sr. Doria, y necesito detalles.
 
 37
 00:04:31,325 --> 00:04:33,783
@@ -1265,7 +1265,7 @@ Sí.
 285
 00:28:19,200 --> 00:28:20,742
 - Hola.
-- Buenas. ¿Todo bien?
+- Buenas tardes. ¿Todo bien?
 
 286
 00:28:20,825 --> 00:28:23,908
@@ -2259,7 +2259,7 @@ ese fin de semana.
 
 505
 00:44:53,617 --> 00:44:55,700
-¿Insinúa que le Sr. Doria miente
+¿Insinúa que el Sr. Doria miente
 
 506
 00:44:55,783 --> 00:44:58,742
@@ -2353,7 +2353,7 @@ a la policía que estuviste en París? Ya.
 
 526
 00:46:11,700 --> 00:46:14,700
-¿Puedes hacerles creer que estuve?
+¿Tú puedes hacerles creer que estuve?
 ¿Puedes comprarme una coartada?
 
 527
@@ -4104,7 +4104,7 @@ un mensaje desde tu móvil.
 
 915
 01:15:07,908 --> 01:15:11,283
-De haber sido así, Tomás Garrido
+De haber sido así, Tomás Garridox
 solo tuvo que preparar el escenario
 
 916
@@ -5016,7 +5016,7 @@ y su mujer no han hablado?
 
 1117
 01:30:27,575 --> 01:30:29,242
-Si Laura les citó parales la verdad,
+Si Laura les citó para contarles la verdad,
 
 1118
 01:30:29,325 --> 01:30:31,158
@@ -5216,7 +5216,8 @@ porque se habían citado con Laura.
 
 1160
 01:33:36,783 --> 01:33:38,533
-Le digo que esta foto demuestra...
+Le estoy diciendo que esta foto 
+demuestra que la madre del chicho…
 
 1161
 01:33:38,617 --> 01:33:40,158
@@ -5329,7 +5330,7 @@ Tú nunca estuviste en esa carretera.
 
 1186
 01:36:02,992 --> 01:36:04,325
-¿Y podemos confiar en él?
+¿Podemos confiar en él?
 
 1187
 01:36:09,783 --> 01:36:10,658
@@ -5455,7 +5456,7 @@ para enterrarle y que descanse en paz.
 
 1215
 01:37:50,367 --> 01:37:52,867
-<i>Fue así nos conocimos</i>
+<i>Fue así como nos conocimos, ¿sabe?</i>
 <i>en un grupo de teatro.</i>
 
 1216
