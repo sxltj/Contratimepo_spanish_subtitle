@@ -709,7 +709,7 @@ no me mienta más.
 158
 00:13:31,992 --> 00:13:34,325
 - No, no creo que cerremos.
--<i>Ha llamado a mi padre.</i>
+-<i>Ha llamado mi padre.</i>
 
 159
 00:13:34,408 --> 00:13:37,283
@@ -912,7 +912,7 @@ Estaba con el móvil.
 204
 00:18:22,783 --> 00:18:25,242
 Si no me hubieras hecho correr,
-habría reaccionado.
+habría podido reaccionar.
 
 205
 00:18:25,325 --> 00:18:28,575
@@ -1045,7 +1045,7 @@ estamos perfectamente. Gracias.
 
 235
 00:21:00,867 --> 00:21:03,325
-Deben ser los del seguro.
+Debe ser los del seguro.
 Ahora vuelvo eh.
 
 236
@@ -1382,7 +1382,7 @@ Vale.
 
 311
 00:30:03,492 --> 00:30:04,867
-¿Y qué la trae por aquí?
+¿Y qué le trae por aquí?
 
 312
 00:30:05,367 --> 00:30:07,367
@@ -1426,7 +1426,7 @@ A mí me encanta leer.
 
 321
 00:30:45,575 --> 00:30:47,158
-Sobre todo,  el t eatro.
+Sobre todo, el teatro.
 
 322
 00:30:47,242 --> 00:30:51,492
@@ -1487,7 +1487,7 @@ Es que voy a retrasarme.
 
 335
 00:31:29,200 --> 00:31:32,700
-Mírame, estaba llevando para casa informes y operaciones
+Mira, me estaba llevando para casa informes y operaciones
 que aquí es imposible terminar.
 
 336
@@ -2081,7 +2081,7 @@ desembarcando.
 
 466
 00:42:11,658 --> 00:42:14,825
-<i>Virginia está aquí porque puede</i>
+<i>Virginia Goodman está aquí porque puede</i>
 <i>que la fiscalía se nos haya adelantado.</i>
 
 467
@@ -2124,7 +2124,7 @@ pero lo dejo en sus manos.
 
 475
 00:42:36,408 --> 00:42:39,492
-<i>Esto detrás de algo gordo,</i>
+<i>Estoy detrás de algo gordo,</i>
 <i>puede que definitivo para el caso.</i>
 
 476
@@ -2340,7 +2340,7 @@ con la desaparición de este chico?
 
 523
 00:45:58,992 --> 00:45:59,992
-Yo estuve en París.
+Yo no estuve en París.
 
 524
 00:46:03,700 --> 00:46:05,158
@@ -2363,7 +2363,7 @@ a la policía que estuviste en París? Ya.
 
 528
 00:46:18,533 --> 00:46:21,033
-Mira, no puedo permitir
+Mira, yo no puedo permitir
 que esta puñetera coincidencia
 
 529
@@ -2425,7 +2425,7 @@ si no fuera por Laura.
 541
 00:47:10,117 --> 00:47:13,700
 ¿Qué hizo cuando le contó que la policía
-le había contactado para identificarla?
+le había contactado para que le identificara?
 
 542
 00:47:13,783 --> 00:47:14,908
@@ -2508,7 +2508,7 @@ Cuando vi hasta dónde era capaz de llegar.
 559
 00:48:07,950 --> 00:48:10,742
 <i>Y lo estaba haciendo de nuevo</i>
-<i>para dejar atrás lo que pasó.</i>
+<i>para dejar atrás todo lo que pasó.</i>
 
 560
 00:48:10,825 --> 00:48:11,700
@@ -2591,7 +2591,7 @@ Bruno estuvo unos días trabajando en casa.
 
 577
 00:49:24,825 --> 00:49:28,700
-<i>Aproveché una de esas mañana para acabar</i>
+<i>Aproveché una de esas mañanas para acabar</i>
 <i>con todo esto de la única manera posible.</i>
 
 578
@@ -2614,7 +2614,7 @@ que les toma por imbéciles.
 
 582
 00:50:40,617 --> 00:50:42,283
-Laura conoció su marido cuando 
+Laura conoció a su marido cuando 
 era empleada de ese banco.
 
 583
@@ -3463,7 +3463,7 @@ que habíamos chocado entre nosotros?
 773
 01:03:48,200 --> 01:03:50,033
 <i>Puede que viera algo,</i>
-<i>sospechara de nuestro actitud</i>
+<i>sospechara de nuestra actitud</i>
 
 774
 01:03:50,117 --> 01:03:52,492
@@ -3544,7 +3544,7 @@ que derrumbarán la ilusión
 
 791
 01:04:41,283 --> 01:04:43,367
-de que tiene
+de que usted tiene
 un relato coherente y sin fi...
 
 792
