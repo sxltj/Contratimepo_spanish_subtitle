@@ -1575,7 +1575,7 @@ Tienes sangre ahí en la mano.
 
 354
 00:32:27,950 --> 00:32:31,283
-- Déjame a ver, si tienes heridas, se puede infectar.
+- Déjame a ver, si tienes heridas, se te puede infectar.
 - No tengo herida.
 
 355
@@ -1760,7 +1760,7 @@ a Daniel. Pensaban que estaba con ella.
 395
 00:36:00,492 --> 00:36:03,783
 - ¿Qué quieres decir?
-- Tendría que estar con ellos,
+- Tendría que estar con los chicos,
 
 396
 00:36:03,867 --> 00:36:07,325
@@ -1779,7 +1779,7 @@ que estaría con sus amigos.
 
 399
 00:36:14,200 --> 00:36:17,200
-- ¿Y si no te ha dicho la verdad?
+- A lo mejor no te ha dicho la verdad.
 - ¿Por qué?
 
 400
@@ -4059,7 +4059,7 @@ Habitación 715.
 
 905
 01:14:40,325 --> 01:14:41,700
-<i>Y así fue Tomás Garrido</i>
+<i>Y así fue como Tomás Garrido</i>
 
 906
 01:14:41,783 --> 01:14:45,200
@@ -4104,7 +4104,7 @@ un mensaje desde tu móvil.
 
 915
 01:15:07,908 --> 01:15:11,283
-De haber sido así, Tomás Garridox
+De haber sido así, Tomás Garrido
 solo tuvo que preparar el escenario
 
 916
@@ -4390,7 +4390,7 @@ Hola.
 
 978
 01:20:29,575 --> 01:20:31,325
-Félix lo ha buscado para desactivarle.
+Félix lo ha estado buscando para desactivarle.
 
 979
 01:20:31,408 --> 01:20:33,617
@@ -4411,7 +4411,7 @@ a la que le he ido dando forma
 
 983
 01:20:40,533 --> 01:20:42,117
-con los detalles que me ha dado.
+con los detalles que usted me ha dado.
 
 984
 01:20:43,575 --> 01:20:45,075
@@ -4464,7 +4464,7 @@ Creímos que había muerto, se lo juro.
 
 995
 01:22:21,075 --> 01:22:23,617
-Laura lo había llevado tan lejos,
+Laura lo había llevado todo tan lejos,
 que no había vuelta atrás.
 
 996
@@ -4475,7 +4475,7 @@ la autopsia me delataría.
 997
 01:22:26,617 --> 01:22:28,867
 Tenía que asegurarme
-de que me ayudaría a evitarlo.
+de que usted me ayudaría a evitarlo.
 
 998
 01:22:31,992 --> 01:22:36,117
@@ -4598,7 +4598,7 @@ de los hechos como si yo fuera su muñeco.
 
 1024
 01:24:13,408 --> 01:24:14,533
-¿Que no le cuadra?
+¿Y qué es lo que no le cuadra?
 
 1025
 01:24:14,617 --> 01:24:17,450
@@ -4616,7 +4616,7 @@ de no volver a verse, sino Laura?
 
 1028
 01:24:23,700 --> 01:24:26,658
-¿Se puede saber qué has hecho para que crean
+¿Se puede saber qué has hecho para que la policía crea
 que Daniel Garrido se ha fugado?
 
 1029
@@ -4862,7 +4862,7 @@ Alguien sabe algo.
 1082
 01:27:25,742 --> 01:27:27,992
 <i>...que la había localizado</i>
-<i>y le estaba chantajeando.</i>
+<i>y que le estaba chantajeando.</i>
 
 1083
 01:27:29,283 --> 01:27:32,992
@@ -5171,7 +5171,7 @@ Y, por supuesto, también llegó a mí.
 
 1151
 01:32:57,867 --> 01:33:00,700
-<i>Entendí que había llegado allí</i>
+<i>Entendí que había llegado hasta allí</i>
 <i>siguiendo la pista de Félix,</i>
 
 1152
@@ -5217,7 +5217,7 @@ porque se habían citado con Laura.
 1160
 01:33:36,783 --> 01:33:38,533
 Le estoy diciendo que esta foto 
-demuestra que la madre del chicho…
+demuestra que la madre del chico…
 
 1161
 01:33:38,617 --> 01:33:40,158
@@ -5410,12 +5410,12 @@ La fiscalía no tiene ningún testigo.
 1205
 01:37:23,617 --> 01:37:26,450
 <i>a la que he ido dando forma</i>
-<i>con los detalles que me ha dado.</i>
+<i>con los detalles que usted me ha dado.</i>
 
 1206
 01:37:26,533 --> 01:37:29,825
 <i>- </i><i>Esta foto demuestra...</i>
-<i>- </i><i>Esta foto es falsa.</i>
+<i>- </i><i>Esta foto, Sr. Doria, es falsa.</i>
 
 1207
 01:37:29,908 --> 01:37:31,367
